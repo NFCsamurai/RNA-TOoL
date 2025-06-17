@@ -1,3 +1,8 @@
 # RNA-TOoL
 ![Banner](https://github.com/NFCsamurai/RNA-TOoL/blob/main/banner.png)
+
+
+## Features
+- Shows How Many Feathers🪶 You Need To Complet That Clothing Item / Accessory
+- 
 Ahhhhh
